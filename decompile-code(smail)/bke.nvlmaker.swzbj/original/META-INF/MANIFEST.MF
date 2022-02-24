@@ -1,0 +1,72 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_05 (Oracle Corporation)
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: 84XuuByH9XElS0WTaGCiuXgA9zo=
+
+Name: res/drawable/btn_aspect_ratio_2.png
+SHA1-Digest: z9BcIY22lS2YTipDoVbaPEdJio0=
+
+Name: assets/data.bkarc
+SHA1-Digest: SIMIkJ6sDx0+GyMDkS4ltcHWlT0=
+
+Name: res/layout/player_control.xml
+SHA1-Digest: Our0GZVN34un2H8zgOLB0r6dC1I=
+
+Name: res/drawable/btn_play_1.png
+SHA1-Digest: edBSOyGcmKhdOVxr6sYh8Lt7vE8=
+
+Name: lib/armeabi-v7a/libBKEngine.so
+SHA1-Digest: NNstyNnWa9v7L+4TkUbzZllg2Bg=
+
+Name: resources.arsc
+SHA1-Digest: jfCM63G4yXHGG2swIDE0HILk+rc=
+
+Name: res/layout/player.xml
+SHA1-Digest: AiJRVY5sVtUCQML/X9OybljvKbw=
+
+Name: classes.dex
+SHA1-Digest: K8qUG3wsq6Lykajef4dSHEclEWY=
+
+Name: res/drawable/btn_play_0.png
+SHA1-Digest: ClL+/sUDWPtZ7+bELy7aiBIzW0I=
+
+Name: res/layout/player_misc.xml
+SHA1-Digest: 2wmYKQ+zWDne4RkLp1QWIGyblsI=
+
+Name: res/drawable/btn_aspect_ratio_4.png
+SHA1-Digest: CgSQLo3UnwMvaZhdq/7X1M+Y3iI=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: UbT4F9p86mMKWfQpgaD95vF1u1I=
+
+Name: AndroidManifest.xml
+SHA1-Digest: BlLL/A6hLszmpZqWjD+/1lffHR0=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: FOaQld96x9Zi7ULMjffUAgpZMFo=
+
+Name: res/drawable/btn_aspect_ratio_3.png
+SHA1-Digest: p7dkynv1dVn7bJjvdjokgraKEso=
+
+Name: res/layout/player_video.xml
+SHA1-Digest: cOPRsht+i/wLdtsHn4/kEhsQ1gc=
+
+Name: lib/armeabi-v7a/libopenal.so
+SHA1-Digest: rt1R3kpHk/6uCp0z8zKWuKCGeiA=
+
+Name: res/drawable/btn_aspect_ratio_5.png
+SHA1-Digest: SQQkNvWlVl5nIAOsUFxqzaCFLps=
+
+Name: res/drawable/btn_aspect_ratio_1.png
+SHA1-Digest: WNHJWOtwWltl/nmLWhWa70obJ54=
+
+Name: res/drawable/btn_aspect_ratio_0.png
+SHA1-Digest: TgzquSh8uDs5+K2doP4cl80POYA=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: BNfsnCQVHJwx5c5EAj/mzfMtNA4=
+
+Name: assets/DroidSans.ttf
+SHA1-Digest: YvKEH2HkvmagMDzRVn7S0wC04xw=
+

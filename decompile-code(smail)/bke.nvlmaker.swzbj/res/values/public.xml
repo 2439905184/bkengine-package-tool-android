@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="btn_aspect_ratio_0" id="0x7f020000" />
+    <public type="drawable" name="btn_aspect_ratio_1" id="0x7f020001" />
+    <public type="drawable" name="btn_aspect_ratio_2" id="0x7f020002" />
+    <public type="drawable" name="btn_aspect_ratio_3" id="0x7f020003" />
+    <public type="drawable" name="btn_aspect_ratio_4" id="0x7f020004" />
+    <public type="drawable" name="btn_aspect_ratio_5" id="0x7f020005" />
+    <public type="drawable" name="btn_play_0" id="0x7f020006" />
+    <public type="drawable" name="btn_play_1" id="0x7f020007" />
+    <public type="drawable" name="icon" id="0x7f020008" />
+    <public type="layout" name="player" id="0x7f030000" />
+    <public type="layout" name="player_control" id="0x7f030001" />
+    <public type="layout" name="player_misc" id="0x7f030002" />
+    <public type="layout" name="player_video" id="0x7f030003" />
+    <public type="string" name="app_name" id="0x7f040000" />
+    <public type="string" name="go" id="0x7f040001" />
+    <public type="string" name="nulltime" id="0x7f040002" />
+    <public type="id" name="player_control_bar" id="0x7f050000" />
+    <public type="id" name="player_text_position" id="0x7f050001" />
+    <public type="id" name="player_seekbar_progress" id="0x7f050002" />
+    <public type="id" name="player_text_length" id="0x7f050003" />
+    <public type="id" name="player_button_toggle_message" id="0x7f050004" />
+    <public type="id" name="player_button_switch_audio" id="0x7f050005" />
+    <public type="id" name="player_button_switch_subtitle" id="0x7f050006" />
+    <public type="id" name="player_button_previous" id="0x7f050007" />
+    <public type="id" name="player_button_toggle_play" id="0x7f050008" />
+    <public type="id" name="player_button_next" id="0x7f050009" />
+    <public type="id" name="player_button_switch_aspect_ratio" id="0x7f05000a" />
+    <public type="id" name="player_prepairing" id="0x7f05000b" />
+    <public type="id" name="player_surface_def" id="0x7f05000c" />
+</resources>

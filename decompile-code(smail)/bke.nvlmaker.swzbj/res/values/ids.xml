@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="player_control_bar">false</item>
+    <item type="id" name="player_text_position">false</item>
+    <item type="id" name="player_seekbar_progress">false</item>
+    <item type="id" name="player_text_length">false</item>
+    <item type="id" name="player_button_toggle_message">false</item>
+    <item type="id" name="player_button_switch_audio">false</item>
+    <item type="id" name="player_button_switch_subtitle">false</item>
+    <item type="id" name="player_button_previous">false</item>
+    <item type="id" name="player_button_toggle_play">false</item>
+    <item type="id" name="player_button_next">false</item>
+    <item type="id" name="player_button_switch_aspect_ratio">false</item>
+    <item type="id" name="player_prepairing">false</item>
+    <item type="id" name="player_surface_def">false</item>
+</resources>

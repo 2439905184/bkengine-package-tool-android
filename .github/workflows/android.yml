@@ -22,7 +22,7 @@ jobs:
 
     - name: Grant execute permission for gradlew
       run: |
-        cd project(java)In-Test/BkEngine
+        cd project/
         chmod +x gradlew
     - name: Build with Gradle
       run: |
